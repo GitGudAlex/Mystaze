@@ -4,7 +4,8 @@
 
 🎓 Semesterprojekt im Wintersemester 2021/2022  
 🎓 Studiengang: Medieninformatik (B.Sc.) – Hochschule der Medien Stuttgart
-[Ausführliche Dokumentation des Projekts](Mystaze/Mystaze_Documentation.pdf)
+🎓 [Ausführliche Dokumentation des Projekts](Mystaze_Documentation.pdf)
+
 
 
 ---
